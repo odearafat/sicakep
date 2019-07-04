@@ -9,7 +9,7 @@ Installation :
 2. Import DB
 
 Code Information
-1. Build ini Codeigneter Framework
+1. Built in Codeigneter Framework
 2. MySQL DB
 3. PHPExcel
 
