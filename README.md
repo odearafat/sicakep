@@ -13,6 +13,6 @@ Code Information
 2. MySQL DB
 3. PHPExcel
 
-@copyright BPS Provinsi Sulawesi Tenggara
+@copyright BPS Provinsi Sulawesi Tenggara (IPDS)
 
-Yusfil Khoir Pulungan
+Programmer : Yusfil Khoir Pulungan
